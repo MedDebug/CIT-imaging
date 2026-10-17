@@ -1,6 +1,6 @@
 # CIT — Clinical Imaging Triage
 
-An IBM-inspired frontend prototype for the IBM Z Datathon 2026. White and gray-white surfaces, muted blue actions, IBM Plex Serif headings and IBM Plex Sans controls.
+An frontend prototype for the IBM Z Datathon 2026. White and gray-white surfaces, muted blue actions, IBM Plex Serif headings and IBM Plex Sans controls.
 
 ## Run
 
