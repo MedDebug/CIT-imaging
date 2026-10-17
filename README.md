@@ -1,6 +1,6 @@
 # CIT — Clinical Imaging Triage
 
-CIT is a radiology worklist demonstration for the IBM Z Datathon 2026. A Python server and SQLite now store cases, reviewer actions and activity history. The same server serves the frontend, with no build step or Python package installation.
+CIT is a radiology worklist demonstration for the IBM Z Datathon 2026. A Python server and SQLite store cases, reviewer actions and activity history. The same server serves the frontend, with no build step or Python package installation. The interface uses white and gray-white surfaces, muted blue actions, IBM Plex Serif headings and IBM Plex Sans controls.
 
 ## Run
 
