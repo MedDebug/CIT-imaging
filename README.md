@@ -50,6 +50,10 @@ When deployed on the VM, LinuxONE runs the application server, priority workflow
 
 The next integration is a licensed chest X-ray model that runs on `s390x`. Add inference as a separate server operation, record model identity/version and timing, and validate its output against held-out dataset labels. Do not describe current scores as model predictions or validated clinical triage. Audit authentication, authorization, concurrent updates and image handling before any clinical pilot.
 
+## Supporting workflow diagram
+
+[End-to-end solution workflow (A4 PDF)](docs/CIT-end-to-end-workflow-A4.pdf) maps the working prototype, simulated score, and proposed LinuxONE model integration. Its interface screenshots show the standalone HTML demonstration; the repository's Python/SQLite server adds persistent state. The diagram does not claim clinical validation or completed model inference.
+
 ## Resources
 
 - IBM Carbon design language: https://carbondesignsystem.com/
